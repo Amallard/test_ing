@@ -1,3 +1,11 @@
+* {
+	padding: 0;
+	margin: 0;
+	background: #efefef;
+	font-family: serif-sans, Arial;
+}
+
 h1 {
   text-align: center;
 }
+
